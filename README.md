@@ -2,7 +2,7 @@
 
 ## Jonathan Venancio Aguilar Hernández
 
-### GTID 244
+### GTID244
 
 ### 1225100756
 
