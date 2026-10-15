@@ -1,9 +1,10 @@
 # Estructura-de-Datos
 
-##Jonathan Venancio Aguilar Hernández
+## Jonathan Venancio Aguilar Hernández
 
-###GTID 244
+### GTID 244
 
-###1225100756
+### 1225100756
+
 
 Actividades de Estructura de datos
